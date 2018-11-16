@@ -1,9 +1,5 @@
 package com.libyuv.util;
 
-/**
- * 作者：请叫我百米冲刺 on 2017/8/28 上午11:05
- * 邮箱：mail@hezhilin.cc
- */
 
 public class YuvUtil {
 
